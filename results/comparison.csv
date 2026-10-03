@@ -1,0 +1,2 @@
+mode,best_val_accuracy,best_epoch,training_time_sec,device
+feature,0.968750,4,142.62,cpu
